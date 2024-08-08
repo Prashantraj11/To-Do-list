@@ -13,8 +13,9 @@ How to Use
 Installation
 To use this application locally:
 
-Clone or download the repository.
-Open the index.html file in your web browser.
+1. Clone or download the repository.
+2. Open the index.html file in your web browser.
+ 
 File Structure
 - index.html: Contains the HTML structure of the application.
 - styles.css: Provides the styling for the application to make it look clean and user-friendly.
