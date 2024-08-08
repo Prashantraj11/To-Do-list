@@ -10,9 +10,9 @@ Features
 How to Use
 1. Adding Tasks: Enter your task in the input field at the top of the page and click the "Add Task" button or press Enter. Your task will be added to the list below.
 2. Deleting Tasks: Each task in the list has a "Delete" button. Click this button to remove the task from the list.
+ 
 Installation
 To use this application locally:
-
 1. Clone or download the repository.
 2. Open the index.html file in your web browser.
  
